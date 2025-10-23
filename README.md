@@ -1,2 +1,2 @@
 # ai-music-composer-app
-AI Music Composer App using Flask
+AI Music Composer App using Fast API
